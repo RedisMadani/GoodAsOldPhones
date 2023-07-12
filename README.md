@@ -1,8 +1,8 @@
-# ScrollNavTabApp
+# GoodAsOldPhones
 
 
 ## Description:
-ScrollNavTabApp is a beginner-friendly iOS app that showcases the use and implementation of essential UI components in iOS development. This app provides a comprehensive demonstration of the Tab Bar Controller, Navigation Controller, Scroll View, Table View, and Storyboard.
+GoodAsOldPhones is a beginner-friendly iOS app that showcases the use and implementation of essential UI components in iOS development. This app provides a comprehensive demonstration of the Tab Bar Controller, Navigation Controller, Scroll View, Table View, and Storyboard.
 
 ## Features:
 
@@ -19,20 +19,20 @@ The Scroll View component allows users to scroll through content that extends be
 Table View is a versatile UI component commonly used to display lists or structured data. The app demonstrates the usage of Table View by populating it with sample data and implementing basic features like cell customization and selection handling.
 
 ### 5. Storyboard:
-Storyboard is an integral part of iOS app development, facilitating visual interface design and defining the flow of screens. ScrollNavTabApp utilizes Storyboard extensively to create and connect various view controllers, implement navigation flows, and manage UI elements.
+Storyboard is an integral part of iOS app development, facilitating visual interface design and defining the flow of screens. GoodAsOldPhones utilizes Storyboard extensively to create and connect various view controllers, implement navigation flows, and manage UI elements.
 
 ## Installation:
-To run ScrollNavTabApp on your iOS device or simulator, follow these steps:
+To run GoodAsOldPhones on your iOS device or simulator, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-repo/ScrollNavTabApp.git
+git clone https://github.com/your-repo/GoodAsOldPhones.git
 ```
 
 2. Open the project in Xcode:
 ```
-cd ScrollNavTabApp
-open ScrollNavTabApp.xcodeproj
+cd GoodAsOldPhones
+open GoodAsOldPhones.xcodeproj
 ```
 
 3. Build and run the app:
