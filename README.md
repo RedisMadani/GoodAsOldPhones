@@ -1,5 +1,6 @@
 # GoodAsOldPhones
 
+![ScrollNavTabApp](https://github.com/RedisMadani/GoodAsOldPhones/assets/136177376/269d74ce-b228-4482-a9d0-b308f161551a)
 
 ## Description:
 GoodAsOldPhones is a beginner-friendly iOS app that showcases the use and implementation of essential UI components in iOS development. This app provides a comprehensive demonstration of the Tab Bar Controller, Navigation Controller, Scroll View, Table View, and Storyboard.
