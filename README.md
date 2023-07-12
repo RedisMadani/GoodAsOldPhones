@@ -1,5 +1,6 @@
 # ScrollNavTabApp
 
+![ScrollNavTabApp](https://github.com/RedisMadani/ScrollNavTabApp/assets/136177376/7413629b-a261-475c-8f58-799fc1176389)
 
 ## Description:
 ScrollNavTabApp is a beginner-friendly iOS app that showcases the use and implementation of essential UI components in iOS development. This app provides a comprehensive demonstration of the Tab Bar Controller, Navigation Controller, Scroll View, Table View, and Storyboard.
@@ -26,7 +27,7 @@ To run ScrollNavTabApp on your iOS device or simulator, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-repo/ScrollNavTabApp.git
+git clone https://github.com/RedisMadani/ScrollNavTabApp.git
 ```
 
 2. Open the project in Xcode:
